@@ -21,7 +21,7 @@ class Experience extends Component {
                 <thead>
                   <tr>
                     <th scope="col">#</th>
-                    <th scope="col">Name</th>
+                    <th scope="col">Company</th>
                     <th scope="col">Duration</th>
                     <th scope="col">Achievements</th>
                   </tr>
