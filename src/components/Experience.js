@@ -29,20 +29,26 @@ class Experience extends Component {
                 <tbody>
                   <tr>
                     <th scope="row">1</th>
-                    <td>MeStudent</td>
-                    <td>Jul 2017 -
+                    <td>IntuDigital</td>
+                    <td>Jan 2019 -
                       <b> Present</b>
                     </td>
-                    <td>Developing and maintaining a web application, www.mestudent.com, whose goal is to take students all around the world for studying in Australia. The application helps the students and school managers to dynamize the process of appliance of students.</td>
+                    <td>Front-end developer at IntuDigital</td>
                   </tr>
                   <tr>
                     <th scope="row">2</th>
+                    <td>MeStudent</td>
+                    <td>Jul 2017 - Jan 2019</td>
+                    <td>Developing and maintaining a web application, www.mestudent.com, whose goal is to take students all around the world for studying in Australia. The application helps the students and school managers to dynamize the process of appliance of students.</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">3</th>
                     <td>Edumarketer</td>
                     <td>Jan 2017 - Mar 2017</td>
                     <td>2 months project, developing a web application using Spring Framework, Java: program for the management and dynamization of students.</td>
                   </tr>
                   <tr>
-                    <th scope="row">3</th>
+                    <th scope="row">4</th>
                     <td>Canaryfly</td>
                     <td>Feb 2015 - Oct 2016</td>
                     <td>Improving and developing internal web applications using Codeigniter, framework based on PHP: Intranet, web agency, ticket invoice management via web.</td>
